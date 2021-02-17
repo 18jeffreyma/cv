@@ -184,7 +184,7 @@
   isbn=false,
   url=false,
   giveninits=true,
-  maxbibnames=10,
+  maxbibnames=15,
   sorting=ddatent,
 ]{biblatex}
 
